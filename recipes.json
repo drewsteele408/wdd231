@@ -1,0 +1,53 @@
+{
+    "code": "WDD231", 
+    "name": "Recipes", 
+    "ingredients":[
+        {
+            "name": "butter",
+            "amount": "1 pound" 
+
+        }, 
+        {
+            "name": "brown sugar", 
+            "amount": "1 1/2 cup"
+        }, 
+        {
+            "name": "white sugar", 
+            "amount": "1 cup"
+        }, 
+        {
+            "name": "eggs", 
+            "amount": 3 
+        }, 
+        {
+            "name": "vanilla", 
+            "amount": "2 tsp"
+        }, 
+        {
+            "name": "baking soda", 
+            "amount": "1 1/2 tsp"
+        }, 
+        {
+            "name": "salt", 
+            "amount": "1/2 tsp"
+        }, 
+        {
+            "name": "flour", 
+            "amount": "5 cups"
+        }, 
+        {
+            "name": "semi-sweet chocolate chips",
+            "amount": "2 cups"
+        }, 
+        {
+            "name": "shredded coconut", 
+            "amount": "1/2 cup"
+        }
+    ], 
+    "steps": [
+        "Cream the butter and sugar together, then beat in the eggs and vanilla",
+       " Mix in salt, soda and flour",
+       " Add chocolate chips and coconut",
+        "Bake 8-10 minutes at 350 F"
+    ]
+}
